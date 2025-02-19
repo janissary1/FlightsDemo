@@ -1,0 +1,5 @@
+bin/Debug/**
+.vscode
+obj/**
+obj/Debug/**
+coding-assignment-orders.json
